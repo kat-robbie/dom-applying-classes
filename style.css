@@ -25,6 +25,10 @@ div.green {
   background-color: green;
 }
 
+div.cyan {
+  background-color: cyan;
+}
+
 .invisible {
   display: none;
 }
